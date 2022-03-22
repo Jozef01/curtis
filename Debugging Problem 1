@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Joseph Personal Site</title>
+  </head>
+    <link rel="stylesheet" href="Stylesheet.css">
+  <body>
+    <table cellspacing="20px">
+        <tr>
+            <td>
+             <img src="Free.png" alt="Joseph profile picture" width="150px">   
+            </td>
+            <td>
+               <h1>Joseph Osawe</h1>
+               <p><em>Founder and CTO of <strong><a href="https:appbrewery.co">The App Brewery</a></strong></em></p>
+               <p>I am an Forextrader Web developer. I Love coffee and brew my own beers.</p> 
+            </td>
+        </tr>
+    </table>
+    <hr>
+    <h3>Books and Teaching</h3>
+    <ul>
+        <li>The complete forex tutorial for successful trading</li>
+        <li>The complete web development bootcamp</li>
+    </ul>
+    <hr>
+    <h3>Work Experience</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Work</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2010-2013</td>
+                <td>Lead development bootcamp</td>
+            </tr>
+            <tr>
+                <td>2010</td>
+                <td>Researcher at the institute of congnitive neurosciences</td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <hr>
+    <table>
+        <h3>Skills</h3>
+        <thead>
+            
+        </thead>
+        <tbody>
+            <tr>
+                <td><table>
+        <thead>
+            
+        </thead>
+        <tbody>
+            <tr>
+               <td>Bootsrap Framework</td> 
+               <td>⭐⭐⭐⭐⭐</td> 
+            </tr>
+            <tr>
+               <td>CSS(3)</td> 
+               <td>⭐⭐⭐⭐⭐</td> 
+            </tr>
+            <tr>
+               <td>HTML(5)</td> 
+               <td>⭐⭐⭐⭐⭐</td> 
+            </tr>
+            <tr>
+               <td>MySQL</td> 
+               <td>⭐⭐⭐⭐⭐</td> 
+            </tr>
+    <tbody>
+    </table></td>
+                <td><table>
+        <thead>
+            
+        </thead>
+        </tbody>
+            <tr>
+               <td>MVC Pattern</td> 
+               <td>⭐⭐⭐⭐</td> 
+            </tr>
+            <tr>
+               <td>Method Factory Pattern</td> 
+               <td>⭐⭐⭐⭐</td> 
+            </tr>
+            <tr>
+               <td>Object Orientated Programming</td> 
+               <td>⭐⭐⭐⭐</td> 
+            </tr>
+            <tr>
+                <td>SASS/SCSS</td>
+                <td>⭐⭐⭐⭐</td>
+            </tr>
+        </tbody>
+    </table></td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <a href="hobbies.html">My Hobbies</a>
+    <a href="Contact.html">Contact Me</a>
+</body>
+</html>
